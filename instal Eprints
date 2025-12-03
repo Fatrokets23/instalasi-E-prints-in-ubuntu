@@ -1,1 +1,13 @@
+# instalasi Eprints 3.4.5 di ubuntu 
+
+## 1. update sistem 
+Update package list dan upgrade sistem terlebih dahulu di ubuntu kalian
+`sudo apt update`
+`sudo apt upgrade -y`
+
+## 2. instalasi Apache web server
+install apache
+`sudo apt install apache -y`
+setelah itu cek apakah apache sudah berjalan 
+
 
