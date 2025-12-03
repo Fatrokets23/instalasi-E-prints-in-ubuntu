@@ -30,11 +30,11 @@ setelah itu cek apakah apache sudah berjalan
 
 3.3 Dependensi Modul Perl
 
-`sudo apt install libxml-libxml-perl libxml-sax-perl libxml-parser-perl \
-libterm-readkey-perl libunicode-string-perl libmime-lite-perl \
-libmime-types-perl libdigest-sha-perl libdbi-perl libdbd-mysql-perl \
-libtext-unidecode-perl libjson-perl libdata-dumper-simple-perl \
-libsearch-xapian-perl libio-string-perl liblingua-stem-perl -y`
+`sudo apt install libxml-libxml-perl libxml-sax-perl libxml-parser-perl \`
+`libterm-readkey-perl libunicode-string-perl libmime-lite-perl `
+`libmime-types-perl libdigest-sha-perl libdbi-perl libdbd-mysql-perl `
+`libtext-unidecode-perl libjson-perl libdata-dumper-simple-perl `
+`libsearch-xapian-perl libio-string-perl liblingua-stem-perl -y`
 
 3.4 Modul Perl Tambahan via CPAN
 
