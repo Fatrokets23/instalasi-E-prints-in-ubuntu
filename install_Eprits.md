@@ -142,38 +142,7 @@ cd /opt/eprints3
 
 Pertanyaan Jawaban
 
-Archive ID? Eprints1
-Configure vital settings? yes
-Hostname? eprints.local
-Webserver Port? 80
-Alias? (Enter aja)
-Path? /
-HTTPS Hostname? (Enter)
-Administrator Email? wicaksonob208@gmail.com
-Archive Name? Test Repository
-Organisation Name? UIN Jakarta
-Configure database? yes
-Database Name? Eprints1
-MySQL Host? localhost
-MySQL Port? (Enter)
-MySQL Socket? (Enter)
-Database User? Eprints1
-Database Password? (Isi Password)
-Database Engine? InnoDB
-Write these database settings? yes
-Create database 'Eprints1'? yes
-Database Superuser Username? root
-Password? Password root lo
-Create tables? yes
-Create initial user? yes
-Username? bagas
-User type? admin
-Password? (buat password admin)
-Email? wicaksonob208@gmail.com
-Build static pages? yes
-Import divisions? yes
-Update Apache config? yes
-
+hhhhhhhhhhhhhhhhhhhhhhhhhhh
 
 ## 8. Konfigurasi Apache
 
