@@ -238,9 +238,8 @@ sudo systemctl restart apache2
 
 Akses:
 
-👉 http://eprints.local
+ http://eprints.local
 
 Kalau tampil “EPrints Done” berarti sukses.
 
-Kalau halaman masih cache:
-Ctrl + Shift + R
+[Screencast from 10-12-25 19:05:22.webm](https://github.com/user-attachments/assets/8debd807-e489-4fcf-b70c-c1eed07f3753)
