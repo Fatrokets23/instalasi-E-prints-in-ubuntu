@@ -240,6 +240,6 @@ Akses:
 
  http://eprints.local
 
-Kalau tampil “EPrints Done” berarti sukses.
+**Ilustrasi sebagai berikut**
 
 [Screencast from 10-12-25 19:05:22.webm](https://github.com/user-attachments/assets/8debd807-e489-4fcf-b70c-c1eed07f3753)
